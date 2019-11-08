@@ -17,6 +17,7 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.ScrollView;
 import android.widget.TextView;
@@ -39,6 +40,10 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 
+class ViewHolder {
+    TextView txtView;
+    ImageView imgIcon;
+}
 
 public class MyClient extends Activity implements TextToSpeechListener {
     // 데이터베이스 사용
@@ -68,6 +73,13 @@ public class MyClient extends Activity implements TextToSpeechListener {
     Thread thread;
     int touch_count = 0, DB_index = 0;
     Boolean touch = false;
+
+    public int checkId(String temp_id) {
+        if(id.equals(temp_id))
+            return 1;
+        else
+            return 2;
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -172,7 +184,7 @@ public class MyClient extends Activity implements TextToSpeechListener {
             public void run() {
                 try {
                     // 소켓을 생성&서버와의 연결 시도
-                    socket = new Socket("117.17.142.133", 3001);
+                    socket = new Socket("172.30.1.16", 3001);
 
                     // 입출력 스트림 설정
                     // 서버에서 메세지 읽어올 때  or  서버에 메세지 보낼 때 필요
@@ -204,19 +216,19 @@ public class MyClient extends Activity implements TextToSpeechListener {
                                     adapter.notifyDataSetChanged();
 
                                     // 서버로 부터 받은 메세지 전체를 읽어준다.
-                                    ttsClient.play(temp_msg);
+                                    // ttsClient.play(temp_msg);
                                 }
                                 else if (temp_id.equals("QuitMessage")) {
                                     adapter.add(temp_msg);
                                     adapter.notifyDataSetChanged();
 
                                     // 서버로 부터 받은 메세지 전체를 읽어준다.
-                                    ttsClient.play(temp_msg);
+                                    // ttsClient.play(temp_msg);
                                 }
                                 else {
                                     if (temp_id != null && temp_msg != null) {
                                         //완전체로 합치기
-                                        fromothers = temp_id + ">>" + temp_msg;
+                                        fromothers = temp_id + " >> " + temp_msg;
 
                                         // 서버에서 받아온 메시지 출력
                                         adapter.add(fromothers);
@@ -230,13 +242,13 @@ public class MyClient extends Activity implements TextToSpeechListener {
                                         // 데이터베이스에 서버에서 받아온 id와 메세지를 저장한다.
                                         sqlDB = myHelper.getWritableDatabase();
                                         sql = String.format("INSERT INTO chatDB VALUES('" + DB_index + "', '" + temp_id + "', '" + temp_msg + "', '" + d_date + "', '" + d_time + "');");
-                                        sqlDB.execSQL(sql);
+                                        // sqlDB.execSQL(sql);
                                         sqlDB.close();
                                         DB_index++;
                                         // Toast.makeText(getApplicationContext(), "입력됨", Toast.LENGTH_LONG).show();
 
                                         // 서버로 부터 받은 메세지 전체를 읽어준다.
-                                        ttsClient.play(temp_id + "  님께서   " + temp_msg + "   라고 보냈습니다");
+                                        // ttsClient.play(temp_id + "  님께서   " + temp_msg + "   라고 보냈습니다");
                                     }
                                 }
                             }
@@ -275,7 +287,7 @@ public class MyClient extends Activity implements TextToSpeechListener {
             // 변경된 값으로 리스트뷰 갱신
             adapter.notifyDataSetChanged();
 
-            ttsClient.play(intro);              //안내문 음성 출력 해 주기(소리로 들린다)
+            // ttsClient.play(intro);              //안내문 음성 출력 해 주기(소리로 들린다)
         } catch (Exception e) {
             e.getMessage();
         }
