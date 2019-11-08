@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\newtone-6.0.1.aar\5d8d13517fdf0bce898c2a18bc8cfc9f\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\eaac823983d539b36125df81f0c6ec9d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\7d2541d4a4588230be7648a63cd49f07\AndroidManifest.xml:2:1-11:12
+MERGED from [com.kakao.sdk:newtone.core:1.1.1.OpenApi] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\newtone.core-1.1.1.OpenApi.aar\781c5d882da8b84c4a09bcbb4593d0d9\AndroidManifest.xml:2:1-10:12
+MERGED from [com.kakao.sdk:network:1.1.36] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\network-1.1.36.aar\619dd2009111e65231d11e2b6f581bfe\AndroidManifest.xml:2:1-12:12
+MERGED from [com.kakao.sdk:util:1.2.2] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\util-1.2.2.aar\dcdc0cf64a2f3cdccc7bc4798d05d887\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\c98ce3cf82fbedc187fb5887e7dcbbb9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\3d8d163c5d021c23d6c8d53df2a9043c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\506d2c466057381434a5e027c38c6ae4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\90734fe834ef8c7477c78341a1c33d63\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\335ba60b1350e5fbcdd11670ea532178\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\db3b480b9c0b106ed99d4de982399f66\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\56eacbab7b76c0ac7fbffaa9b51304e3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\bba1bb386a5b40108ab4ec95f14cae0a\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:3:5-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\newtone-6.0.1.aar\5d8d13517fdf0bce898c2a18bc8cfc9f\AndroidManifest.xml:11:5-67
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\newtone-6.0.1.aar\5d8d13517fdf0bce898c2a18bc8cfc9f\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:7:5-71
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\newtone-6.0.1.aar\5d8d13517fdf0bce898c2a18bc8cfc9f\AndroidManifest.xml:12:5-71
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\newtone-6.0.1.aar\5d8d13517fdf0bce898c2a18bc8cfc9f\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\newtone-6.0.1.aar\5d8d13517fdf0bce898c2a18bc8cfc9f\AndroidManifest.xml:13:5-79
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\newtone-6.0.1.aar\5d8d13517fdf0bce898c2a18bc8cfc9f\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:10:5-68
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\newtone-6.0.1.aar\5d8d13517fdf0bce898c2a18bc8cfc9f\AndroidManifest.xml:14:5-68
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\newtone-6.0.1.aar\5d8d13517fdf0bce898c2a18bc8cfc9f\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:10:22-65
+application
+ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:13:5-38:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\eaac823983d539b36125df81f0c6ec9d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\eaac823983d539b36125df81f0c6ec9d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\7d2541d4a4588230be7648a63cd49f07\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\7d2541d4a4588230be7648a63cd49f07\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\c98ce3cf82fbedc187fb5887e7dcbbb9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\c98ce3cf82fbedc187fb5887e7dcbbb9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\3d8d163c5d021c23d6c8d53df2a9043c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\3d8d163c5d021c23d6c8d53df2a9043c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\506d2c466057381434a5e027c38c6ae4\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\506d2c466057381434a5e027c38c6ae4\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\90734fe834ef8c7477c78341a1c33d63\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\90734fe834ef8c7477c78341a1c33d63\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\335ba60b1350e5fbcdd11670ea532178\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\335ba60b1350e5fbcdd11670ea532178\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\db3b480b9c0b106ed99d4de982399f66\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\db3b480b9c0b106ed99d4de982399f66\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\56eacbab7b76c0ac7fbffaa9b51304e3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\56eacbab7b76c0ac7fbffaa9b51304e3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\bba1bb386a5b40108ab4ec95f14cae0a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\bba1bb386a5b40108ab4ec95f14cae0a\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:15:9-46
+	android:allowBackup
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.kakao.sdk.newtone.sample.MainActivity
+ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.kakao.sdk.newtone.sample.MyClient
+ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:27:9-65
+	android:label
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:27:44-63
+	android:name
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:27:19-43
+activity#com.kakao.sdk.newtone.sample.RegisterMember
+ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:28:9-71
+	android:label
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:28:50-69
+	android:name
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:28:19-49
+activity#com.kakao.sdk.newtone.sample.VoiceRecoActivity
+ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:31:9-32:73
+	android:theme
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:32:13-71
+	android:name
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:31:19-80
+meta-data#com.kakao.sdk.AppKey
+ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:34:9-37:11
+	android:value
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:36:13-50
+	android:name
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml:35:13-48
+uses-sdk
+INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\newtone-6.0.1.aar\5d8d13517fdf0bce898c2a18bc8cfc9f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\newtone-6.0.1.aar\5d8d13517fdf0bce898c2a18bc8cfc9f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\eaac823983d539b36125df81f0c6ec9d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\eaac823983d539b36125df81f0c6ec9d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\7d2541d4a4588230be7648a63cd49f07\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\7d2541d4a4588230be7648a63cd49f07\AndroidManifest.xml:7:5-43
+MERGED from [com.kakao.sdk:newtone.core:1.1.1.OpenApi] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\newtone.core-1.1.1.OpenApi.aar\781c5d882da8b84c4a09bcbb4593d0d9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.kakao.sdk:newtone.core:1.1.1.OpenApi] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\newtone.core-1.1.1.OpenApi.aar\781c5d882da8b84c4a09bcbb4593d0d9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.kakao.sdk:network:1.1.36] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\network-1.1.36.aar\619dd2009111e65231d11e2b6f581bfe\AndroidManifest.xml:8:5-10:41
+MERGED from [com.kakao.sdk:network:1.1.36] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\network-1.1.36.aar\619dd2009111e65231d11e2b6f581bfe\AndroidManifest.xml:8:5-10:41
+MERGED from [com.kakao.sdk:util:1.2.2] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\util-1.2.2.aar\dcdc0cf64a2f3cdccc7bc4798d05d887\AndroidManifest.xml:11:5-13:41
+MERGED from [com.kakao.sdk:util:1.2.2] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\util-1.2.2.aar\dcdc0cf64a2f3cdccc7bc4798d05d887\AndroidManifest.xml:11:5-13:41
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\c98ce3cf82fbedc187fb5887e7dcbbb9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\c98ce3cf82fbedc187fb5887e7dcbbb9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\3d8d163c5d021c23d6c8d53df2a9043c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\3d8d163c5d021c23d6c8d53df2a9043c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\506d2c466057381434a5e027c38c6ae4\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\506d2c466057381434a5e027c38c6ae4\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\90734fe834ef8c7477c78341a1c33d63\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\90734fe834ef8c7477c78341a1c33d63\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\335ba60b1350e5fbcdd11670ea532178\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\335ba60b1350e5fbcdd11670ea532178\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\db3b480b9c0b106ed99d4de982399f66\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\db3b480b9c0b106ed99d4de982399f66\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\56eacbab7b76c0ac7fbffaa9b51304e3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\56eacbab7b76c0ac7fbffaa9b51304e3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\bba1bb386a5b40108ab4ec95f14cae0a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\bba1bb386a5b40108ab4ec95f14cae0a\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Min Ji Chung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\eaac823983d539b36125df81f0c6ec9d\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Min Ji Chung\Desktop\Study\AndroidProjects\Chatopia\app\src\main\AndroidManifest.xml
