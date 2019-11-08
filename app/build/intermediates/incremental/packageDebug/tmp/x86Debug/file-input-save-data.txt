@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Nov 08 12:54:43 KST 2019
+#Fri Nov 08 13:12:28 KST 2019
 1.base=C\:\\Users\\Min Ji Chung\\Desktop\\Study\\AndroidProjects\\Chatopia\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 2.path=classes.dex
 0.baseType=DIRECTORY
